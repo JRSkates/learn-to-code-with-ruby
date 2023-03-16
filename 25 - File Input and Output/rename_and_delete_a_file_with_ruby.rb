@@ -1,0 +1,2 @@
+
+File.delete("somethingBetter.txt")
